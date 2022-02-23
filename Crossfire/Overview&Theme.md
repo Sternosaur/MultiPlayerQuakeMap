@@ -1,5 +1,6 @@
 # Overview & Theme
-The idea for this map is currently an underwater cavern with 3 different stories, the basement, the first floor, and the second floor.
+The idea for this map is an 3-layer structure surrounded by water.  The three different layers would be connected by flights of stairs.
+The idea is to have the more powerful weapons located on the basement floor where they're the most susceptical to danger.
 This map concept was inspired from bomberman 64's Up & Down.
  <br/>
     <p align="center">
